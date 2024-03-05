@@ -1,0 +1,51 @@
+10:13:13.144 [main] ERROR testCases.TC_001_AccountRegistrationTest - Registration Failed
+10:13:21.637 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest....
+10:16:48.361 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+10:16:48.389 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on MyAccount link
+10:16:48.489 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Register link
+10:16:49.160 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Details
+10:16:50.426 [main] ERROR testCases.TC_001_AccountRegistrationTest - Registration Failed
+10:16:53.721 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest....
+10:16:54.876 [main] INFO  testCases.TC_002_LoginTest - Ending TC_002_LoginTest....
+11:34:57.594 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+11:34:58.964 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+11:34:58.990 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+11:35:00.691 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+11:35:02.135 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+11:35:13.096 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+11:35:13.099 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+10:29:15.361 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+10:29:16.858 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+10:29:16.890 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+10:29:18.342 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+10:29:19.819 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+10:29:30.686 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+10:29:30.695 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:35:46.309 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:35:47.787 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:35:47.804 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:35:49.316 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:35:50.706 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:36:01.535 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:36:01.540 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:38:37.846 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+14:38:37.873 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on MyAccount link
+14:38:38.310 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Register link
+14:38:38.639 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Details
+14:38:39.888 [main] ERROR testCases.TC_001_AccountRegistrationTest - Registration Failed
+14:38:42.737 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest....
+14:38:43.941 [main] INFO  testCases.TC_002_LoginTest - Ending TC_002_LoginTest....
+15:31:19.969 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+15:31:20.003 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on MyAccount link
+15:31:20.536 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Register link
+15:31:20.974 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Details
+15:31:22.245 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration Successful... 
+15:31:22.249 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Finishing TC_001_AccountRegistrationTest****
+15:31:24.974 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest....
+15:31:26.622 [main] INFO  testCases.TC_002_LoginTest - Ending TC_002_LoginTest....
+06:49:17.435 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+06:49:17.511 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on MyAccount link
+06:49:17.935 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Register link
+06:49:18.423 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Details
+06:49:20.053 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration Successful... 
+06:49:20.061 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Finishing TC_001_AccountRegistrationTest****
